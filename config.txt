@@ -1,6 +1,6 @@
-token=NDQwMDcyMTM0Mjk1ODE0MTU0.XQkTqg.ssaHDRRlyh20rh_GtJuaX7VwhyQ
+token=NDQwMDcyMTM0Mjk1ODE0MTU0.XT3rDw.UeIejI6HVuupB5iGxMPFz0hQadQ
 owner=264421278692147202
 prefix=Br
 game=
 stayinchannel=true
-songinstatus=true
+songinstatus=false
